@@ -1,1 +1,59 @@
 # Advanced_Machine_Learning
+It covers key concepts in supervised and unsupervised machine learning, dimensionality reduction, feature selection, optimization, model training, and AI ethics.
+We covered the topic for:
+- Nearest Neighbors and Cross Validation
+- Cost functions ( or loss or risk) and optimization
+- The curse of dimensionality
+- Generalization and overfitting
+- Cross validation
+- Parametric vs. non-parametric learning
+- Non-parametric instance-based learning
+- Nearest neighbors (knn)
+- Decision Trees and Random Forests
+- Introduction to decision trees
+- Calculating entropy and information gain and the GINI index
+- Decision tree algorithm
+- Bias variance trade-off
+- Introduction to random forests
+- Random forest
+- Bagging and boosting
+- Adaboost: combining decision stumps
+- Ensemble learning, data reweighting, weak learner coefficients
+- Naïve Bayes
+- Bayes rule, independence, distributions
+- Generative models and Naïve Bayes
+- Maximum likelihood estimation and smoothing
+- Support Vector Machines (SVM)
+- Maximum margin classifiers
+- Finding support vectors
+- Support vector classifiers
+- Using SVM for regression
+- Using SVM for classification
+- Dimensionality Reduction
+- Principal Component Analysis (PCA)
+- Case study: Eigenfaces
+- Other methods for dimensionality reduction (e.g., SVD, NNMF, LDA)
+- Introduction to unsupervised learning
+- Community Detection
+- Data Clustering
+- Dynamical Processes
+- Gradient Descent and Regularization
+- Cost functions
+- Gradient descent
+- Convexity
+- Best subset selection
+- Ridge and lasso regression
+- K-Means Clustering
+- Introduction to unsupervised learning
+- Distance metrics
+- K-Means clustering
+- Hierarchical Clustering
+- Dendrograms
+- Neural Networks
+- Perceptrons
+- Biological origins
+- Model representation
+- Cost functions
+- Backpropagation
+- Generative AI
+- AI Ethics
